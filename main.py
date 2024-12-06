@@ -16,6 +16,19 @@ b = [1, 2, 3, "poo", [1, 5, 6], True]
 # size_a= a.__sizeof__()
 # size_b= b.__sizeof__()
 
+# Press the green button in the gutter to run the script.
+if __name__ == '__main__':
+    # print_hi('PyCharm')
+    number = 100 #integer
+    boolean_value = True #=> 1
+    another_value = False #=> 0
+    float_number = 100.5 #float
+    text = 'Цитата: \'программирование\''
+
+    list1 = {0: 25, "name": "Anna"}
+    list2 = {"car": "машина", "table": "стол"}
+
+    print(list2["table"])
 
 # print(3 in a) # наличие элемента в кортеже/ списке
 # print(0 not in a)
