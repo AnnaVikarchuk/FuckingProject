@@ -13,8 +13,14 @@ def print_hi(name):
 if __name__ == '__main__':
     # print_hi('PyCharm')
     number = 100 #integer
+    boolean_value = True #=> 1
+    another_value = False #=> 0
     float_number = 100.5 #float
     text = 'Цитата: \'программирование\''
-    print(text)
+
+    list1 = {0: 25, "name": "Anna"}
+    list2 = {"car": "машина", "table": "стол"}
+
+    print(list2["table"])
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
