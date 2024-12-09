@@ -1,20 +1,17 @@
-# This is a sample Python script.
+# a = {}
+# b = set("hello guy")
+# c = set([1, 2, 2, 3, 3])
+#
+# print(c, type(c))
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+# a = [1, 2, 2, 2, 3, 4, 4]
+# a = list(set([1, 2, 2, 2, 3, 4, 4]))
 
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    # print_hi('PyCharm')
-    number = 100 #integer
-    float_number = 100.5 #float
-    text = 'Цитата: \'программирование\''
-    print(text)
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+# a = set(range(4))
+# a.add(10)
+# a.update({1})
+# a = set([1, 2])
+# b= a.copy()
+#
+# print(b)
+print(4 / 2)
